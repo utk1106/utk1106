@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🔭 I’m currently working as a Cloud Developer at Rapid Circle.
+🔭 I’m currently working as a DevOps Engineer
 
-🌱 I’m currently working on Azure, DevOps
+🌱 I’m currently working on Docker, AWS, Azure, DevOps
 
 👯 I want to collaborate on building communities and contribute to open source.
 
